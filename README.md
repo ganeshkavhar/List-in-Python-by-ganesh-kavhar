@@ -17,3 +17,6 @@ list2 = [1, 2, 3, 4, 5 ];
 list3 = ["a", "b", "c", "d"]
 Similar to string indices, list indices start at 0, and lists can be sliced, concatenated and so on.
 
+
+
+![py](https://user-images.githubusercontent.com/20369800/52272877-26773a00-296e-11e9-9c4e-9f1c25ac7323.jpg)
